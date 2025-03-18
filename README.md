@@ -11,6 +11,8 @@ Install dependencies
 pip install -r requirements.txt
 ```
 
+**Create a .env and look at the .env.example to see the environment variables needed**
+
 # Usage
 run the main file
 ```
